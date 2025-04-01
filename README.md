@@ -17,7 +17,7 @@ Vendas: Recomendam produtos e guiam compras online.
 Automação: Agendamentos, pagamentos e coleta de dados.
 
 # TYPEBOT
-O Typebot é uma plataforma open-source e intuitiva para construir chatbots avançados sem precisar de código, sendo justamente ela onde inciei meus estudos com a ajuda da professora Tereza. Com ela, você pode:
+O [Typebot](https://docs.typebot.io/get-started/introduction) é uma plataforma open-source e intuitiva para construir chatbots avançados sem precisar de código, sendo justamente ela onde inciei meus estudos com a ajuda da professora Tereza. Com ela, você pode:
 
 Criar fluxos de conversa visualmente (arrastando e soltando blocos).
 
@@ -26,3 +26,6 @@ Integrar com WhatsApp, Email, API e outras ferramentas.
 Coletar e analisar dados dos usuários de forma estruturada.
 
 Desenvolver bots éticos e alinhados com necessidades reais.
+
+![Image](https://www.eliellanca.com.br/wp-content/uploads/2024/03/deploy-typebot-chatbot-on-your-cloud-server-with-docker.webp)
+
