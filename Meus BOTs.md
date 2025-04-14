@@ -9,3 +9,7 @@ com respectivamente um sistema de lanchonete e outro com um sistema de uma clín
 [CHATBOT CLÍNICA](https://typebot.co/my-typebot-fv5hs71)
 
 ![Image](https://www.cloudia.com.br/wp-content/themes/cloudia/imagens/solucoes-medicos.png)
+
+[CHATBOT HOTEL](https://typebot.co/hotel-boa-vista-palace-n6dxqjb)
+
+![Image](https://d1nhio0ox7pgb.cloudfront.net/_img/v_collection_png/512x512/shadow/hotel.png)
